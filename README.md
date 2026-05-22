@@ -1,56 +1,51 @@
-# 📑 HỒ SƠ CÁ NHÂN | PORTFOLIO
+# 🎓 HỒ SƠ SINH VIÊN & BÁO CÁO HỌC TẬP
 
-<p align="center">
-  <img src="https://picsum.photos/800/400" alt="Banner" width="100%" style="border-radius: 8px;"/>
-</p>
-
-## 👤 Giới Thiệu Bản Thân
-Xin chào! Tôi là **Nguyễn Văn A**, một nhà phát triển web đam mê sáng tạo và xây dựng các sản phẩm công nghệ thực tế. Tôi luôn hướng tới việc tối ưu hóa trải nghiệm người dùng và viết mã nguồn sạch, dễ bảo trì.
-
-* 📍 **Vị trí:** Hà Nội, Việt Nam
-* ✉️ **Email:** vana@example.com
-* 💼 **Trạng thái:** Sẵn sàng cho các cơ hội công việc mới (Open for Work)
+> **Bài tập cá nhân / Hồ sơ học tập**  
+> **Sinh viên thực hiện:** Nguyễn Văn A  
+> **Mã số sinh viên:** 24010xxxx  
 
 ---
 
-## 🚀 Kỹ Năng Chuyên Môn
+## 👤 1. Thông Tin Cá Nhân
+* **Họ và tên:** Nguyễn Văn A
+* **Lớp:** Công nghệ thông tin Kxx
+* **Khoa:** Công nghệ thông tin
+* **Trường:** [Tên trường Đại học/Cao đẳng của bạn]
+* **Email sinh viên:** vana.sv@tentruong.edu.vn
+* **Định hướng:** Lập trình viên Website (Frontend / Backend)
 
-| Lập Trình Web | Công Cụ & Thư Viện | Kỹ Năng Khác |
+---
+
+## 📊 2. Kết Quả Học Tập & Kỹ Năng Tích Lũy
+
+### Đang trong quá trình học tập và rèn luyện tại trường:
+
+| Tên Môn Học / Học Phần | Trạng Thái | Đánh Giá / Điểm Số |
 | :--- | :--- | :--- |
-| HTML5 / CSS3 / JavaScript | ReactJS / VueJS | Git & GitHub |
-| Responsive Web Design | Bootstrap / TailwindCSS | UI/UX Design (Figma) |
+| Nhập môn Lập trình (C/C++) | Đã hoàn thành | Điểm: A (8.5) |
+| Cấu trúc dữ liệu & Giải thuật | Đã hoàn thành | Điểm: B+ (8.0) |
+| Thiết kế Web cơ bản (HTML/CSS/JS) | **Đang học** | Đang làm bài tập lớn |
+| Cơ sở dữ liệu | Học kỳ tới | Chưa tích lũy |
+
+### 🛠️ Kỹ năng công nghệ hiện tại:
+* **Ngôn ngữ:** HTML5, CSS3, JavaScript cơ bản.
+* **Công cụ:** Git, GitHub, Visual Studio Code.
 
 ---
 
-## 🛠️ Các Dự Án Tiêu Biểu
+## 📂 3. Sản Phẩm & Bài Tập Đã Thực Hiện
 
-### 1. Website Thương Mại Điện Tử
-* **Mô tả:** Trang web bán hàng tích hợp giỏ hàng và thanh toán trực tuyến.
-* **Công nghệ sử dụng:** HTML, CSS, JavaScript.
-* **Tính năng:** Tìm kiếm sản phẩm, lọc giá, giỏ hàng mượt mà.
-
-### 2. Ứng Dụng Quản Lý Công Việc (Todo App)
-* **Mô tả:** Ứng dụng giúp người dùng sắp xếp và theo dõi tiến độ công việc hàng ngày.
-* **Công nghệ sử dụng:** JavaScript (Local Storage).
+### 🌐 Dự án: Trang web Portfolio cá nhân
+* **Mô tả:** Ứng dụng các kiến thức đã học về HTML và CSS để xây dựng giao diện hồ sơ trực tuyến.
+* **Kết quả đạt được:** Biết cách chia bố cục (Layout), làm giao diện phản hồi (Responsive) trên điện thoại và máy tính.
+* **Xem trang web chạy thực tế:** [Bấm vào đây để xem bản Web Online](https://ten-tai-khoan-cua-ban.github.io/ten-repo-cua-ban/) *(Thay link GitHub Pages của bạn vào đây)*
 
 ---
 
-## 📈 Thống Kê GitHub của tôi
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=github_username_cua_ban&show_icons=true&theme=radial" alt="GitHub Stats" />
-</p>
+## 🎯 4. Mục Tiêu Học Tập Tiếp Theo
+* [ ] Nắm vững kiến thức nâng cao về JavaScript để xử lý logic web tốt hơn.
+* [ ] Học cách quản lý source code bằng Git theo nhóm để làm bài tập lớn.
+* [ ] Đạt điểm số tích lũy môn chuyên ngành từ loại Khá/Giỏi trở lên.
 
 ---
-
-## 🤝 Kết Nối Với Tôi
-Bạn có thể tìm thấy tôi qua các nền tảng sau:
-
-* [**Facebook**](https://facebook.com/yourprofile)
-* [**LinkedIn**](https://linkedin.com/in/yourprofile)
-* [**Portfolio Online**](https://github_username_cua_ban.github.io/my-portfolio/)
-
----
-<p align="center">Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Chúc bạn một ngày tốt lành! ✨</p>
-git add README.md
-git commit -m "Thêm file README giới thiệu bản thân"
-git push origin main
+<p align="center"><i>Cảm ơn Thầy đã dành thời gian xem qua hồ sơ học tập của em!</i></p>
