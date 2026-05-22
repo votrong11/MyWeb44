@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📑 HỒ SƠ CÁ NHÂN | PORTFOLIO
 
 <p align="center">
@@ -51,3 +52,6 @@ Bạn có thể tìm thấy tôi qua các nền tảng sau:
 
 ---
 <p align="center">Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Chúc bạn một ngày tốt lành! ✨</p>
+=======
+
+>>>>>>> 268db78008c8a509e511a7e6ada1b5ef776047a1
