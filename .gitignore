@@ -1,16 +1,17 @@
-# Ignore Play! working directory #
-bin/
-/db
-.eclipse
-/lib/
-/logs/
-/modules
-/project/project
-/project/target
-/target
-tmp/
-test-result
-server.pid
-*.eml
-/dist/
-.cache
+# Khởi tạo git trong thư mục
+git init
+
+# Gom toàn bộ các file lại chuẩn bị commit
+git add .
+
+# Tạo commit đầu tiên
+git commit -m "Feat: Hoàn thành nội dung và giao diện mini-project 1"
+
+# Đổi tên nhánh chính thành main (chuẩn mới của GitHub)
+git branch -M main
+
+# Liên kết với repository trên GitHub (Thay URL bằng link repo của bạn)
+git remote add origin https://github.com/TEN_TAI_KHOAN_CUA_BAN/mini-project-web-co-ban.git
+
+# Đẩy code lên
+git push -u origin main
