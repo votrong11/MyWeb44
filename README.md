@@ -52,11 +52,7 @@
 ### 🌐 Dự án 1: Trang web Portfolio cá nhân
 * **Mô tả:** Ứng dụng các kiến thức đã học về HTML và CSS để xây dựng giao diện hồ sơ trực tuyến.
 * **Kết quả đạt được:** Biết cách chia bố cục (Layout), làm giao diện phản hồi (Responsive) trên điện thoại và máy tính.
-<<<<<<< HEAD
-* **Môi trường chạy thử nghiệm:** `http://127.0.0.1:5500/index1.html` (Live Server), `[bài2](http://127.0.0.1:5500/index2.html)
-=======
 * **Môi trường chạy thử nghiệm:** `http://127.0.0.1:5500/index1.html` (Live Server)
->>>>>>> 507d8d9083e00e74a50eb0488e88c8c6369dbe41
 
 ### 🔗 Dự án 2: Website nhập môn Web căn bản (Mini-project 1)
 * **Xem trang web chạy thực tế trên internet():** [Bấm vào đây để xem sản phẩm GitHub Pages của em](https://votrong11.github.io/MyWeb7/)
@@ -69,9 +65,4 @@
 * [ ] Học cách quản lý source code bằng Git theo nhóm để làm bài tập lớn.
 * [ ] Đạt điểm số tích lũy môn chuyên ngành từ loại Khá/Giỏi trở lên.
 
-<<<<<<< HEAD
 ---
-=======
----
-<p align="center"><i>Cảm ơn Thầy đã dành thời gian xem qua hồ sơ học tập và sản phẩm của em!</i></p>
->>>>>>> 507d8d9083e00e74a50eb0488e88c8c6369dbe41
